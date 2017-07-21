@@ -1,0 +1,13 @@
+MINRAMT: Minimum amount donated by that donor
+MAXRAMT: Maximum amt donated by the donor
+LASTGIFT: Amount of the most recent donation
+PERIOD: avg time gap in months between 2 donations
+NGIFTALL: No of donations made
+TAMT: total amt donated by the donor
+Score: The score assigned to the donor based on the Recency Frequency and the 
+      total amount donated by the donor
+Wealth 1, Wealth 2: total wealth of the donor(includes savings, ancestral wealth)
+Cluster: Each cluster indicates the socio-economic status of the donor taking into account
+         the affluence of the area, their profession, income, buying and saving habits
+Income: donors income
+Age: donors age
